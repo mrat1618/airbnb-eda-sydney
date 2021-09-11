@@ -1,0 +1,8 @@
+Data source: http://insideairbnb.com/get-the-data.html
+
+Date Downloaded: 10 April, 2021
+Country/City: Sydney
+Description: Detailed Listings data for Sydney
+
+Dataset
+ - 20-August-2021 (Sydney)

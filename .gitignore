@@ -1,0 +1,4 @@
+.DS_Store
+*.code-workspace
+data/*
+!data/meta.txt
