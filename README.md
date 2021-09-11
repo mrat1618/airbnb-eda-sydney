@@ -1,6 +1,6 @@
 # Sydney AirBnB: exploratory data analysis
 
-This analysis of Sydney AirBnB data was conducted as a part of the Udacity Data Science Nanodegree course. You can find the full set of analysis scripts and notebooks in this repository. A more consumer friendly article can be found [here](link).
+This analysis of Sydney AirBnB data was conducted as a part of the Udacity Data Science Nanodegree course. You can find the full set of analysis scripts and notebooks in this repository. A more consumer friendly article can be found [here](https://medium.com/@humulene/what-is-your-airbnb-choice-for-next-time-you-are-in-sydney-5db6dcb201d8).
 
 ## Requirements
  - python (3.7)
