@@ -14,6 +14,14 @@ def create_amenities_list(amenities:set, data:str)->None:
     
 
 def update_amenities_dict(row:pd.Series, amenities_dict:dict)->None:
+    """Update amenities dictionary with values from the dataset.
+    Must run as a lambda function(i.e. df.apply(lambda x: update_amenities_dict(x, amenities_dict), axis=1))
+
+    Args:
+        row (pd.Series): data row: observations
+        amenities_dict (dict): amenities dictionary
+    """
     rtype = row.room_type
     for amn in ast.literal_eval(row.amenities):
         amenities_dict[rtype][amn] += 1
+        
