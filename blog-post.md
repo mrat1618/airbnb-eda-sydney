@@ -1,4 +1,6 @@
-# What type of an AirBnB would you be looking for when you are in Sydney next?
+# What is your AirBnB choice for next time you are in Sydney?
+
+NOTE: Read full blog post at Medium <https://medium.com/@humulene/what-is-your-airbnb-choice-for-next-time-you-are-in-sydney-5db6dcb201d8>
 
 If you're travelling somewhere, the biggest challenge would be finding good, reasonably priced accommodation. Starting from the air ticket, Sydney is an expensive travel destination, particularly when compared to Asia. However, the experience you would get travelling in Australia is so unique. Sydney in particular is surrounded by a lot of beaches, national parks and tourist attractions. There is a wide variety of places you can visit within a few hours either by a vehicle or simply by using public transportation. 
 
